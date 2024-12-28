@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_amount">Enter amount: </string>
+
+    <string name="default_error_msg">Something wrong happened, please try again!</string>
+    <string name="retry">Retry</string>
+    <string name="please_retry_again">Please retry again</string>
+    <string name="select_currency">Select currency</string>
+    <string name="please_select_currency">Please select currency</string>
+    <string name="default_msg_no_converted_currency">Currency conversion will be displayed here</string>
+    <string name="no_amount_entered">Please enter amount</string>
+    <string name="please_enter_valid_amount">Error invalid amount, please enter valid amount</string>
+
+</resources>
