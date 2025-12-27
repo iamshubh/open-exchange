@@ -44,7 +44,6 @@ class MainActivity : ComponentActivity() {
     private fun initialize() {
         viewModel.initialize()
     }
-
 }
 
 @Composable
